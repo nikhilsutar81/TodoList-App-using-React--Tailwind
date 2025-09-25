@@ -2,8 +2,9 @@
 
 A clean, simple, and responsive TodoList application built with React, Vite, and Tailwind CSS. This project provides a modern development setup for building fast and beautiful user interfaces.
 
-![TodoList App Screenshot](https://via.placeholder.com/800x450.png?text=Your+App+Screenshot+Here)
-*Replace the placeholder URL with a screenshot of your application.*
+## Preview
+
+<img width="1893" height="818" alt="Screenshot 2025-09-25 205555" src="https://github.com/user-attachments/assets/b4ff1f3e-26de-4470-acff-60218f33d34b" />
 
 ## ✨ Features
 
